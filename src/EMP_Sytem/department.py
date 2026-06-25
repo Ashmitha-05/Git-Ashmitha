@@ -4,3 +4,5 @@ def dep(deptid,dept):
 dep(101,"CSE")
 
 #to check the ammend
+
+print("department")
