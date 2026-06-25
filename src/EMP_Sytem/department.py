@@ -3,4 +3,6 @@ def dep(deptid,dept):
 
 dep(101,"CSE")
 
-#to check the ammend
+#to check the amend
+
+print("checked amend")
