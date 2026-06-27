@@ -1,6 +1,0 @@
-this is file 5
-again i added some modification without bringing itfrom stash
-again added a new stash
-
-
-Bug found here ----do bisect
